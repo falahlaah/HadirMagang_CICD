@@ -1,0 +1,1 @@
+# HadirMagangApp Test with CICD
